@@ -99,6 +99,11 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+.large-card {
+     max-width: 800px;
+}
+
 .card:hover {
   border-color: #ff99ff;
 }
