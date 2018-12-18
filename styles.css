@@ -67,14 +67,15 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  border-radius: 15px 75px 15px 75px;
   border: 3px solid white;
-  transition: all .5s;
+  transition: all 1s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(5deg) translate(10%, -30%);
+
 }
 .tag {
   background-color: #efefef;
