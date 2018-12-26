@@ -173,6 +173,8 @@ a.social:hover {
     width: 40%;
     float: right;
     margin-left: 2em;
+    border: 3px solid white;
+    border-radius: 10px
 }
 .clearfix {
   clear: both;
