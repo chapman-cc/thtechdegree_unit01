@@ -169,6 +169,11 @@ a.github {
 a.social:hover {
   opacity: 1;
 }
+.gov-photo {
+    width: 40%;
+    float: right;
+    margin-left: 2em;
+}
 .clearfix {
   clear: both;
 }
