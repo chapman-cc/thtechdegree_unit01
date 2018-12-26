@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: rgba(20, 108, 39);
+  background: rgb(20, 108, 39);
   min-height: 30px;
   padding: 10px;
   position: fixed;
