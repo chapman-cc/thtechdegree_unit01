@@ -169,12 +169,18 @@ a.github {
 a.social:hover {
   opacity: 1;
 }
-.gov-photo {
+.photo-div {
     width: 40%;
     float: right;
     margin-left: 2em;
+}
+.gov-photo {
+    width: 100%;
     border: 3px solid white;
     border-radius: 10px
+}
+.photo-credit {
+    font-size: 0.5em;
 }
 .clearfix {
   clear: both;
